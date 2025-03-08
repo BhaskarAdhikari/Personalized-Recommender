@@ -149,4 +149,6 @@ An error occurred: [Error details]
 Notes
 Make sure your API key is valid and has enough quota.
 Ensure that the openai and pandas libraries are installed.
-This project is a solid starting point for building more complex personalized recommendation systems. Feel free to expand or modify it for different types of recommendations!
+This project is a solid starting point for building more complex personalized recommendation systems.
+
+Feel free to expand or modify it for different types of recommendations!
